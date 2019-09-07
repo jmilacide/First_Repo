@@ -1,2 +1,5 @@
 What is SSH?
 What is the difference between GitKraken and GitHub?
+What is the difference between GitHub, GitLab & BitBucket?
+Review on public and private keys.
+What are Staged and unstaged files?
